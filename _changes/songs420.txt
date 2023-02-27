@@ -1,3 +1,8 @@
+mods/weeks/b.json
+mods/weeks/c.json
+mods/weeks/d.json
+mods/weeks/g.json
 mods/weeks/h.json
-mods/weeks/p.json
-mods/weeks/w.json
+mods/weeks/j.json
+mods/weeks/s.json
+mods/weeks/t.json

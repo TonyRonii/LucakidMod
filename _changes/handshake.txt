@@ -1,0 +1,6 @@
+mods/data/handshake/events.json
+mods/data/handshake/handshake.json
+mods/songs/handshake/Voices.ogg
+mods/songs/handshake/Inst.ogg
+mods/songs/handshake/voices.ogg
+mods/songs/handshake/inst.ogg

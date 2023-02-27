@@ -1,0 +1,7 @@
+mods/data/darkened/darkend.json
+mods/data/darkened/darkened.json
+mods/data/darkened/events.json
+mods/songs/darkened/Voices.ogg
+mods/songs/darkened/Inst.ogg
+mods/songs/darkened/voices.ogg
+mods/songs/darkened/inst.ogg

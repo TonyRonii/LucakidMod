@@ -1,0 +1,5 @@
+mods/data/toxicity/toxicity.json
+mods/songs/toxicity/Voices.ogg
+mods/songs/toxicity/Inst.ogg
+mods/songs/toxicity/voices.ogg
+mods/songs/toxicity/inst.ogg

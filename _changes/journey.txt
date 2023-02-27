@@ -1,0 +1,5 @@
+mods/data/journey/journey.json
+mods/songs/journey/Voices.ogg
+mods/songs/journey/Inst.ogg
+mods/songs/journey/voices.ogg
+mods/songs/journey/inst.ogg

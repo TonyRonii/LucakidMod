@@ -1,0 +1,5 @@
+mods/data/smooth/smooth.json
+mods/songs/smooth/Voices.ogg
+mods/songs/smooth/Inst.ogg
+mods/songs/smooth/voices.ogg
+mods/songs/smooth/inst.ogg

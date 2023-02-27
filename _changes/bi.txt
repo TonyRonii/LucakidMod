@@ -1,0 +1,5 @@
+mods/data/bi/bi.json
+mods/songs/bi/Voices.ogg
+mods/songs/bi/Inst.ogg
+mods/songs/bi/voices.ogg
+mods/songs/bi/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/cursed/cursed.json
+mods/data/cursed/events.json
+mods/songs/cursed/Voices.ogg
+mods/songs/cursed/Inst.ogg
+mods/songs/cursed/voices.ogg
+mods/songs/cursed/inst.ogg

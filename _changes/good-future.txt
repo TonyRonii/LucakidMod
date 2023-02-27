@@ -1,0 +1,5 @@
+mods/data/good-future/good-future.json
+mods/songs/good-future/Voices.ogg
+mods/songs/good-future/Inst.ogg
+mods/songs/good-future/voices.ogg
+mods/songs/good-future/inst.ogg
