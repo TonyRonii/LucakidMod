@@ -1,0 +1,5 @@
+mods/data/purplecent/purplecent.json
+mods/songs/purplecent/Voices.ogg
+mods/songs/purplecent/Inst.ogg
+mods/songs/purplecent/voices.ogg
+mods/songs/purplecent/inst.ogg
